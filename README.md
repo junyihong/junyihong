@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=안녕하세요😊%20백엔드를%20공부하고%20있는%20홍준이%20입니다.&fontSize=32&animation=fadeIn&fontAlignY=25&desc=열심히%20공부해서%20기술%20스택을%20늘려%20나가겠습니다.&descAlignY=51&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=안녕하세요😊%20웹%20개발을%20공부하고%20있는%20홍준이%20입니다.&fontSize=32&animation=fadeIn&fontAlignY=25&desc=열심히%20공부해서%20기술%20스택을%20늘려%20나가겠습니다.&descAlignY=51&descAlign=70)
 
 </div>
 <div align="center">
